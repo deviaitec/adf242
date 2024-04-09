@@ -1,0 +1,9 @@
+{
+	"name": "adf24withgiteclipse",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb34f699-65cf-4f5b-8876-2ddc7bd4a850",
+		"tenantId": "450b3eda-64e6-4877-ab73-8deac670bc19"
+	}
+}

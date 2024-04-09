@@ -99,7 +99,7 @@
 							{
 								"source": {
 									"name": "Time",
-									"type": "String",
+									"type": "DateTime",
 									"physicalType": "String"
 								},
 								"sink": {
@@ -295,8 +295,8 @@
 								},
 								"sink": {
 									"name": "Time",
-									"type": "String",
-									"physicalType": "varchar"
+									"type": "DateTime",
+									"physicalType": "datetime"
 								}
 							},
 							{
